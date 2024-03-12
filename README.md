@@ -1,2 +1,2 @@
 # Weather-App
-Js, HTML, CSS
+JavaScript, HTML, CSS
